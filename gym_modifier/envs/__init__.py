@@ -1,0 +1,6 @@
+from gym_modifier.envs.cartpole import CartPoleEnv
+from gym_modifier.envs.tdInvPendEnv import InvPendulumEnv
+from gym_modifier.envs.odInvPendEnv import OdInvPendulumEnv
+from gym_modifier.envs.tdNonLinearInvPendEnv import NonLinInvPendulumEnv
+from gym_modifier.envs.NonLinodInvPendEnv import NonLinOdInvPendulumEnv
+from gym_modifier.envs.discreteNLODInvPend import DiscNonLinOdInvPendulumEnv
