@@ -6,7 +6,7 @@ This is a reinforcement Learning based control solution for the [Quanser 2DoF In
 The implementation mainly focus on [Stable Baselines](https://github.com/hill-a/stable-baselines) implementation of Proximal Policy Optimization (PPO) and [Keras-RL](https://github.com/keras-rl/keras-rl) implementation of Double Deep Q Network. It also includes a generic wrapper for [OpenAi GYM](https://github.com/openai/gym), [Stable Baselines](https://github.com/hill-a/stable-baselines) and [Keras-RL](https://github.com/keras-rl/keras-rl). 
 
 ### About
-This project was part of the course *Design project in Systems, Control and Mechatronics* at Chalmers University of Technology, Sweden, during autumn of 2018.
+This project was part of the course *Design project in Systems, Control and Mechatronics* at Chalmers University of Technology, Sweden, during autumn of 2018. An article about the findings from the project is included in the repository at ['2Dof_Inverted_Pendulum_RL.pdf'](2Dof_Inverted_Pendulum_RL.pdf)
 
 ##### Group Members
 Jonathan Jansson  
